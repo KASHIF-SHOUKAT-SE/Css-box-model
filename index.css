@@ -1,0 +1,40 @@
+h1{
+    background-color: bisque;
+    /* border-style: dashed;
+    border-width: 2px;
+    border-color: brown; */
+    border:solid black 3px ;
+    /* border-radius: 10px; */
+    /* border-top-left-radius: 4px; */
+    border-radius: 5px;
+    width: 350px;
+    padding: 30px;
+    margin-left : 700px; 
+}
+.firstpara{
+    background-color: blueviolet;
+    border:solid black 3px ;
+    border-radius: 5px;
+    width: 350px;
+    padding: 30px;
+    margin-left : 700px;
+}
+.secondpara{
+    background-color: brown;
+    border:solid black 3px ;
+    border-radius: 5px;
+    width: 350px;
+    padding: 30px;
+    margin-left : 700px;
+}
+.thirdpara{
+    background-color: yellowgreen;
+    border:solid black 3px ;
+    border-radius: 5px;
+    width: 350px;
+    padding: 30px;
+    margin-left : 700px;
+}
+
+
+
